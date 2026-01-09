@@ -28,5 +28,5 @@ I am a Full-stack Senior Developer with 9+ years of experience. As a key member 
 ---
 
 ### 📬 Connect with me
-- 🌍 Portfolio: [javedmiah.co.uk](https://javedmiah.co.uk)
+- 🌍 Portfolio: [javedmiah.co.uk](https://www.javedmiah.co.uk)
 - 💼 LinkedIn: [linkedin.com/in/miahjaved](https://www.linkedin.com/in/miahjaved)
